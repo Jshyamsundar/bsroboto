@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital@0;1&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+    /* border: 2px solid red; */
+}
+.nav-link{
+    color: white !important;
+    font-size: 18px;
+}
+.herosection{
+    background: linear-gradient(rgba(31, 29, 32, 0.808),rgba(28, 28, 29, 0.5)) ,url(images/genius-coder-programme.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    /* padding: 100px 100px; */
+}
+.heading{
+    color: white !important;
+    margin-top: 250px;
+    
+   
+}
+.heading h1{
+    font-size: 50px;
+    margin-left: 30px;
+    margin-bottom: 20px;
+    border-left: 3px solid lightcoral;
+    padding-left: 20px;
+    
+}
+.heading h5{
+    font-size: 30px;
+    /* margin-left: 30px; */
+}
+.basic p{
+    font-size: 19px !important;
+    text-transform: lowercase !important;
+}
+.codingSection .card{
+    overflow: hidden !important;
+}
+.foot-1{
+    flex-direction: column !important;
+    line-height: 2 !important;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
