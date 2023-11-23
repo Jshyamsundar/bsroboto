@@ -6,12 +6,15 @@
     font-family: 'Poppins', sans-serif;
     /* border: 2px solid red; */
 }
+i{
+    font-size: 20px;
+}
 .nav-link{
     color: white !important;
     font-size: 18px;
 }
 .herosection{
-    background: linear-gradient(rgba(31, 29, 32, 0.808),rgba(28, 28, 29, 0.5)) ,url(images/genius-coder-programme.jpg);
+    /* background: linear-gradient(rgba(31, 29, 32, 0.808),rgba(28, 28, 29, 0.5)) ,url(images/genius-coder-programme.jpg); */
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
